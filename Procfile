@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run consulta_estoque_eldorado.py
+web: sh setup.sh && streamlit run rfv_table_eldorado.py
